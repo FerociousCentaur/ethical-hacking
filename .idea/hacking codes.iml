@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="ChemPlus1" />
+    <orderEntry type="module" module-name="Bhulakkad" />
+    <orderEntry type="module" module-name="py-billdesk" />
+    <orderEntry type="module" module-name="py_billdesk" />
+    <orderEntry type="module" module-name="py_billdesk" />
+    <orderEntry type="module" module-name="py_billdesk" />
+    <orderEntry type="module" module-name="py_billdesk" />
+    <orderEntry type="module" module-name="py_billdesk" />
+    <orderEntry type="module" module-name="BookLab" />
+    <orderEntry type="module" module-name="BookLab" />
+    <orderEntry type="module" module-name="blogging" />
+    <orderEntry type="module" module-name="ChemPlus1" />
+    <orderEntry type="module" module-name="webops" />
+    <orderEntry type="module" module-name="workfence" />
+  </component>
+</module>

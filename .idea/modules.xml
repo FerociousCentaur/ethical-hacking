@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../Bhulakkad/.idea/Bhulakkad.iml" filepath="$PROJECT_DIR$/../../Bhulakkad/.idea/Bhulakkad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../djnago-projects/BookLab/.idea/BookLab.iml" filepath="$PROJECT_DIR$/../../djnago-projects/BookLab/.idea/BookLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../djnago-projects/ChemPlus1/.idea/ChemPlus1.iml" filepath="$PROJECT_DIR$/../../djnago-projects/ChemPlus1/.idea/ChemPlus1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../djnago-projects/blogging/.idea/blogging.iml" filepath="$PROJECT_DIR$/../../djnago-projects/blogging/.idea/blogging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../djnago_billdesk/.idea/djnago_billdesk.iml" filepath="$PROJECT_DIR$/../../djnago_billdesk/.idea/djnago_billdesk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/hacking codes.iml" filepath="$PROJECT_DIR$/.idea/hacking codes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../py-billdesk/.idea/py-billdesk.iml" filepath="$PROJECT_DIR$/../../py-billdesk/.idea/py-billdesk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../py_billdesk/.idea/py_billdesk.iml" filepath="$PROJECT_DIR$/../../py_billdesk/.idea/py_billdesk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../djnago-projects/webops/.idea/webops.iml" filepath="$PROJECT_DIR$/../../djnago-projects/webops/.idea/webops.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/workfence/.idea/workfence.iml" filepath="$USER_HOME$/PycharmProjects/workfence/.idea/workfence.iml" />
+    </modules>
+  </component>
+</project>
